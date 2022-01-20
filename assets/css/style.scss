@@ -270,6 +270,8 @@ nav{
         .blog-head-content{
             .head-info{
                 top: 30vh;
+                margin-top: -55px;
+
             }
     
         }
@@ -332,7 +334,15 @@ nav{
                 top: -1vh;
                 left: 3vw;
                 width: 94vw;
+                // margin-top: -10px;
+                p{
+                    font-size: 1.1rem;
+                }
 
+
+            }
+            .contact-box{
+                margin-top: 40px;
             }
     
         }

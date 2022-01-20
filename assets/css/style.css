@@ -274,6 +274,7 @@ nav .join-btn {
   }
   .blog-head .blog-head-content .head-info {
     top: 30vh;
+    margin-top: -55px;
   }
   .single-blog-body .blog-note .cat-card .cards .last {
     display: none;
@@ -311,6 +312,12 @@ nav .join-btn {
     top: -1vh;
     left: 3vw;
     width: 94vw;
+  }
+  .blog-head .blog-head-content .head-info p {
+    font-size: 1.1rem;
+  }
+  .blog-head .blog-head-content .contact-box {
+    margin-top: 40px;
   }
   .blog-note .category {
     display: block;
